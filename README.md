@@ -2,7 +2,7 @@
 
 # ¡Hola, soy John Anderson! 👋
 
-![Banner](https://drive.google.com/file/d/1TMcM18Po9T8GzPw5jUR3tpNomwyBXmlX/view?usp=sharing)
+![Banner](Fondito.png)
 
 **@jaquinoca23** | **Desarrollador Full Stack** | **Estudiante de Ingeniería de Sistemas (UCV)**
 
