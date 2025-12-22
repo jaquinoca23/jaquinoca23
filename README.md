@@ -22,6 +22,8 @@
 
 🚀 Me caracterizo por el aprendizaje continuo, la aplicación de buenas prácticas de desarrollo y el uso de tecnologías modernas para construir soluciones eficientes, escalables y orientadas a resolver problemas reales.
 
+PORTAFOLIO
+https://portafolio-john-aquino.vercel.app/
 ---
 
 ## 💻 Tech Stack
