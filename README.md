@@ -14,7 +14,7 @@
 
 ## 📝 Sobre Mí
 
-🖥️ Estudiante de Ingeniería de Sistemas en la Universidad César Vallejo (UCV) Actualmente estoy cursando el 7° Ciclo, con un fuerte interés en el desarrollo de software y la ingeniería de datos a nivel aplicado.
+🖥️ Estudiante de Ingeniería de Sistemas en la Universidad César Vallejo (UCV) Actualmente estoy cursando el 8° Ciclo, con un fuerte interés en el desarrollo de software y la ingeniería de datos a nivel aplicado.
 
 💻 Apasionado por el desarrollo de aplicaciones web full stack, con experiencia en la creación de interfaces intuitivas y en el diseño de arquitecturas backend sólidas, seguras y escalables. Me gusta trabajar tanto en el frontend como en el backend, cuidando la calidad del código y la experiencia del usuario.
 
